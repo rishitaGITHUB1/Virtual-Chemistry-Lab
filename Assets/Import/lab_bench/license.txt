@@ -1,0 +1,11 @@
+Model Information:
+* title:	lab bench
+* source:	https://sketchfab.com/3d-models/lab-bench-1ac2a62c52a848bbaf746146dc7253f8
+* author:	Konstantin_Keller (https://sketchfab.com/Konstantin_Keller)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lab bench" (https://sketchfab.com/3d-models/lab-bench-1ac2a62c52a848bbaf746146dc7253f8) by Konstantin_Keller (https://sketchfab.com/Konstantin_Keller) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

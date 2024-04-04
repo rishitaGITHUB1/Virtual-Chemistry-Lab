@@ -1,0 +1,11 @@
+Model Information:
+* title:	Room shell
+* source:	https://sketchfab.com/3d-models/room-shell-fcaf7aa12c1f4c568ce33dd6ad8bccdb
+* author:	m31odyr (https://sketchfab.com/m31odyr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Room shell" (https://sketchfab.com/3d-models/room-shell-fcaf7aa12c1f4c568ce33dd6ad8bccdb) by m31odyr (https://sketchfab.com/m31odyr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tack
+* source:	https://sketchfab.com/3d-models/tack-08ae62450fff4d3d87ab92c66c834898
+* author:	Daria Smolikova (https://sketchfab.com/dariasmolikova06)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tack" (https://sketchfab.com/3d-models/tack-08ae62450fff4d3d87ab92c66c834898) by Daria Smolikova (https://sketchfab.com/dariasmolikova06) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

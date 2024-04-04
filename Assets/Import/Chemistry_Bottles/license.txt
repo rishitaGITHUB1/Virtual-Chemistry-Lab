@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chemistry Bottles
+* source:	https://sketchfab.com/3d-models/chemistry-bottles-12b838f10b07406f837b14d326039b36
+* author:	dercruz926 (https://sketchfab.com/dercruz926)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chemistry Bottles" (https://sketchfab.com/3d-models/chemistry-bottles-12b838f10b07406f837b14d326039b36) by dercruz926 (https://sketchfab.com/dercruz926) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
